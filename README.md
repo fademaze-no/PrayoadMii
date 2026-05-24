@@ -18,7 +18,7 @@
 
 **My Faverite Projects**
 
-* **[MC-PrayoadMii-Network](https://prayoadmii.qzz.io/projects/mc-pmn/status/index.html) [Private Repo]:** My Minecraft Server O_O
+* **[MC-PrayoadMii-Network](https://pmn.prayoadmii.qzz.io/status/index.html) [Private Repo]:** My Minecraft Server O_O
 * **[Noob-Bot](https://discord.com/oauth2/authorize?client_id=1354829549577437214) [Private Repo]:** Him Is The Best Discord Bot I Ever Made!
 
 ***Oh Bruh... That All I Make? BRUH!***
