@@ -1,29 +1,16 @@
 # Hello And Welcome To My GitHub Profile XD
 
-*I'm Not A New Player Here... You Know?*
+*Just Another Lazy Guy On GitHub*
 
 ---
 
 **Script Language I Know :3**
-* **[Luau](https://create.roblox.com/) (God At It)**
-* **[Python](https://www.python.org/) (Almost God)**
-* **[HTML/CSS](http://prayoadmii.qzz.io/) (Good At It)**
-* **[Java](https://modrinth.com/organization/noobs-studio-creations!) (Just Start)**
-* **[JavaScript](http://prayoadmii.qzz.io/) (Just Start)**
-* **[C#](https://unity.com/) (Do Not Ask <3)**
-
----
-
-**So Yea! I Make Some Projects! (Scroll Down To See Public Repo's)**
-
-**My Faverite Projects**
-
-* **[MC-PrayoadMii-Network](https://pmn.prayoadmii.qzz.io/status/index.html) [Private Repo]:** My Minecraft Server O_O
-* **[Noob-Bot](https://discord.com/oauth2/authorize?client_id=1354829549577437214) [Private Repo]:** Him Is The Best Discord Bot I Ever Made!
-
-***Oh Bruh... That All I Make? BRUH!***
-
-Ok nvm About It... Just Enjoy :D
+* **[Python](https://www.python.org/) (Kinda Good On It)**
+* **[HTML/CSS](http://prayoadmii.qzz.io/) (Not That Good But Ok...)**
+* **[Java](https://modrinth.com/organization/noobs-studio-creations!) (Just Start...)**
+* **[JavaScript](http://prayoadmii.qzz.io/) (Just Start...)**
+* **[C#](https://unity.com/) (Practicing)**
+* **Meow (Wait... What Even Is This!)**
 
 ---
 
