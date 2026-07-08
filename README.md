@@ -1,27 +1,27 @@
-# Hello And Welcome To My GitHub Profile XD
+# Hello, and welcome to my GitHub profile! XD
 
-*Just Another Lazy Guy On GitHub*
+*Just another lazy guy on GitHub*
 
 ---
 
-**Script Language I Know :3**
-* **[Python](https://www.python.org/) (Kinda Good On It)**
-* **[HTML/CSS](http://prayoadmii.qzz.io/) (Not That Good But Ok...)**
-* **[Java](https://modrinth.com/organization/noobs-studio-creations!) (Just Start...)**
-* **[JavaScript](http://prayoadmii.qzz.io/) (Just Start...)**
+**Scripting languages I know :3**
+* **[Python](https://www.python.org/) (Good)**
+* **[HTML/CSS](http://prayoadmii.qzz.io/) (Okay)**
+* **[Java](https://modrinth.com/organization/noobs-studio-creations!) (Beginner)**
+* **[JavaScript](http://prayoadmii.qzz.io/) (Beginner)**
 * **[C#](https://unity.com/) (Practicing)**
-* **Meow (Wait... What Even Is This!)**
+* **Meow (Wait... what even is this!)**
 
 ---
 
 **Links**
 
-**Discord:** @prayoadmii Or [My Server](https://discord.gg/vkFJhzFmYY)
+**Discord:** @prayoadmii Or [my Discord server](https://discord.gg/vkFJhzFmYY)
 
-**Roblox:** [Profile](https://www.roblox.com/th/users/9778511204/profile) Or [Groups](https://www.roblox.com/th/communities/713383747/Noobs-Studio-Creations)
+**Roblox:** [Profile](https://www.roblox.com/th/users/9778511204/profile) Or [groups](https://www.roblox.com/th/communities/713383747/Noobs-Studio-Creations)
 
 **Scratch:** [Profile](https://scratch.mit.edu/users/PrayoadMii) Or [Studios](https://scratch.mit.edu/studios/36723642/)
 
-**YouTube:** [Channel](https://www.youtube.com/@PrayoadMii)
+**YouTube Channel:** [Channel](https://www.youtube.com/@PrayoadMii)
 
 **Website:** [Domain1](http://prayoadmii.qzz.io/)
